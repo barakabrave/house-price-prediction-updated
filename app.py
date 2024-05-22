@@ -15,19 +15,19 @@ st.set_page_config(
 st.markdown("""
     <style>
     .main {
-        background-color: #f5f5f5;
+        background-color: #f0f2f6;
         padding: 20px;
         border-radius: 10px;
     }
     .title {
         font-size: 2.5em;
-        color: #4CAF50;
+        color: #2c3e50;
         text-align: center;
         margin-bottom: 30px;
     }
     .subtitle {
         font-size: 1.5em;
-        color: #555555;
+        color: #34495e;
         margin-bottom: 20px;
     }
     .input-section {
@@ -38,7 +38,7 @@ st.markdown("""
         margin-bottom: 20px;
     }
     .prediction-section {
-        background-color: #e8f5e9;
+        background-color: #eaf2f8;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
