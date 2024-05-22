@@ -15,19 +15,20 @@ st.set_page_config(
 st.markdown("""
     <style>
     .main {
-        background-color: #f0f2f6;
+        background-color: black;
         padding: 20px;
         border-radius: 10px;
     }
     .title {
         font-size: 2.5em;
-        color: #2c3e50;
+        color: white;
+        background-color: black;
         text-align: center;
         margin-bottom: 30px;
     }
     .subtitle {
         font-size: 1.5em;
-        color: #34495e;
+        color: white;
         margin-bottom: 20px;
     }
     .input-section {
